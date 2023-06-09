@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SneakersShopReact/static/css/main.cbec3b15.css",
+    "main.js": "/SneakersShopReact/static/js/main.dd860b6c.js",
+    "static/media/strelka.png": "/SneakersShopReact/static/media/strelka.ebe65790cb028abee088.png",
+    "static/media/SneakeкsNav.png": "/SneakersShopReact/static/media/SneakeкsNav.7d31eec8471c32f03a67.png",
+    "static/media/9.webp": "/SneakersShopReact/static/media/9.b9ff5efcf84dc5ecb0f3.webp",
+    "static/media/11.webp": "/SneakersShopReact/static/media/11.d5697694606accc8dce9.webp",
+    "static/media/12.webp": "/SneakersShopReact/static/media/12.570bb330c407e04b5328.webp",
+    "static/media/14.webp": "/SneakersShopReact/static/media/14.f6ad353eb3c180d95827.webp",
+    "static/media/13.webp": "/SneakersShopReact/static/media/13.2ae575fa6d13300da46e.webp",
+    "static/media/15.webp": "/SneakersShopReact/static/media/15.53d8a9ca2be2cfa8b1fc.webp",
+    "static/media/10.webp": "/SneakersShopReact/static/media/10.c78b6f25ba7cc8cfa453.webp",
+    "static/media/3.webp": "/SneakersShopReact/static/media/3.2ae6e23677c9aa0e8055.webp",
+    "static/media/4.webp": "/SneakersShopReact/static/media/4.cb5010097d190ad65637.webp",
+    "static/media/2.webp": "/SneakersShopReact/static/media/2.b6787c208654348ea222.webp",
+    "static/media/5.webp": "/SneakersShopReact/static/media/5.bc0aa181d000c95e4561.webp",
+    "static/media/7.webp": "/SneakersShopReact/static/media/7.2174e93af077772206e4.webp",
+    "static/media/8.webp": "/SneakersShopReact/static/media/8.e0030399a0af0810ec8d.webp",
+    "static/media/16.webp": "/SneakersShopReact/static/media/16.1c7bb7ef0a0692597ca1.webp",
+    "index.html": "/SneakersShopReact/index.html",
+    "main.cbec3b15.css.map": "/SneakersShopReact/static/css/main.cbec3b15.css.map",
+    "main.dd860b6c.js.map": "/SneakersShopReact/static/js/main.dd860b6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbec3b15.css",
+    "static/js/main.dd860b6c.js"
+  ]
+}
