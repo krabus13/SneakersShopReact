@@ -1,0 +1,94 @@
+.mainform {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 260px;
+  background-color: white;
+  border-radius: 15%;
+  border: 3px solid #6495ed;
+}
+.img {
+  width: 194px;
+  height: 185px;
+  border-radius: 25%;
+}
+.prevPrice {
+  color: #6495ed;
+  text-decoration: line-through;
+  text-decoration-color: black;
+  opacity: 0.8;
+}
+.price {
+  color: rgb(56, 56, 56);
+  width: auto;
+  margin-top: 8px;
+  margin-left: 25px;
+}
+.form {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  height: 30px;
+  margin-left: 40px;
+}
+.title {
+  word-wrap: break-word;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(56, 56, 56);
+}
+.start {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 100px;
+  flex-direction: row-reverse;
+  border-radius: 25px;
+  border: 4px solid #6495ed;
+}
+.form2 {
+  color: antiquewhite;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+}
+.form2Title {
+  color: #6495ed;
+  margin-top: 50px;
+  font-size: 25px;
+  margin-bottom: 90px;
+}
+.backButton {
+  border: none;
+  background: none;
+  font-size: 20px;
+  color: #6495ed;
+  margin-top: 50px;
+  border-bottom: 3px solid #6495ed;
+  margin-left: 10px;
+}
+.backButton:active {
+  color: plum;
+  border-bottom-color: plum;
+}
+.selectSize {
+  text-decoration: none;
+  padding-bottom: 25px;
+  user-select: none;
+  color: #6495ed;
+}
+.selectSize a {
+  text-decoration: none;
+  font-size: 17px;
+  color: plum;
+  margin-left: 3px;
+}
+.selectSize a:focus {
+  border-bottom: 2px solid #6495ed;
+}

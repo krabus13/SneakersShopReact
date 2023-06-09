@@ -1,0 +1,87 @@
+.start {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 260px;
+  background-color: white;
+  border-radius: 15%;
+  margin: 40px;
+  border: 3px solid #6495ed;
+  text-decoration: none;
+}
+.main:hover {
+  border: 3px solid plum;
+}
+.CardImg {
+  width: 194px;
+  height: 185px;
+  border-radius: 25%;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(56, 56, 56);
+}
+.price {
+  color: rgb(56, 56, 56);
+  width: auto;
+  margin-top: 8px;
+  font-size: 14px;
+  padding-left: 10px;
+}
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: auto;
+  height: 28px;
+  padding: 15px;
+}
+.prevPrice {
+  font-size: 12px;
+  color: #6495ed;
+  text-decoration: line-through;
+  text-decoration-color: black;
+  opacity: 0.8;
+}
+.button {
+  margin-top: 10px;
+  margin-left: 10px;
+  padding-left: 15px;
+}
+.sortSelect {
+  display: flex;
+  justify-content: space-around;
+  color: antiquewhite;
+  align-items: flex-end;
+}
+.pComponent {
+  color: plum;
+  font-size: 20px;
+  padding: 200px;
+}
+.input {
+  background-color: lightgray;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+  border-bottom: 3px solid plum;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+.select {
+  height: 35px;
+  width: 150px;
+  background-color: lightgray;
+  border: transparent;
+  border-bottom: 3px solid plum;
+}

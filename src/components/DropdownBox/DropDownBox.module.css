@@ -1,0 +1,72 @@
+.main {
+  width: 280px;
+  height: auto;
+  background-color: pink;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 30px;
+  position: relative;
+  z-index: 1;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 20px;
+  position: relative;
+  right: 100px;
+}
+.img {
+  width: 80px;
+  height: 80px;
+  border-radius: 30%;
+  border: 3px solid #6495ed;
+}
+.liComponent {
+  display: flex;
+  align-items: center;
+  width: auto;
+  justify-content: space-around;
+  list-style: none;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.PriceAndTitle {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #6495ed;
+}
+.basketEmpty {
+  width: auto;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #6495ed;
+  font-size: 16px;
+}
+.but {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.itemPrice {
+  padding-right: 20px;
+  width: 70px;
+}
+.itemTitle {
+  padding-bottom: 9px;
+  font-size: 16px;
+}
+.button {
+  color: #6495ed;
+  border-bottom: 2px solid #6495ed;
+}
+.button:active {
+  color: #6495ed;
+  opacity: 0.5;
+}
+.Link {
+  text-decoration: none;
+}

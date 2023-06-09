@@ -1,0 +1,39 @@
+.pointer {
+  transform: rotate(1deg);
+  width: 200px;
+  height: 200px;
+}
+.text {
+  color: aliceblue;
+
+  opacity: 0.9;
+}
+.PWTComponent {
+  width: 500px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50%;
+  user-select: none;
+}
+@media (max-width: 450px) {
+  .PWTComponent {
+    width: 100px;
+    height: 100px;
+  }
+}
+@media (max-width: 900px) {
+  .PWTComponent {
+    width: 200px;
+    height: 200px;
+    margin-left: 50%;
+  }
+}
+@media (max-width: 417px) {
+  .PWTComponent {
+    width: auto;
+    height: 200px;
+    margin: 0%;
+  }
+}
