@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SneakersShopReact/static/css/main.f6ef7ebf.css",
-    "main.js": "/SneakersShopReact/static/js/main.0fd4601b.js",
+    "main.css": "/SneakersShopReact/static/css/main.b163f7c8.css",
+    "main.js": "/SneakersShopReact/static/js/main.b326998e.js",
     "static/media/strelka.png": "/SneakersShopReact/static/media/strelka.ebe65790cb028abee088.png",
     "static/media/SneakeкsNav.png": "/SneakersShopReact/static/media/SneakeкsNav.7d31eec8471c32f03a67.png",
     "static/media/back.svg": "/SneakersShopReact/static/media/back.886fc01a64365dd53a1c.svg",
@@ -20,11 +20,11 @@
     "static/media/8.webp": "/SneakersShopReact/static/media/8.e0030399a0af0810ec8d.webp",
     "static/media/16.webp": "/SneakersShopReact/static/media/16.1c7bb7ef0a0692597ca1.webp",
     "index.html": "/SneakersShopReact/index.html",
-    "main.f6ef7ebf.css.map": "/SneakersShopReact/static/css/main.f6ef7ebf.css.map",
-    "main.0fd4601b.js.map": "/SneakersShopReact/static/js/main.0fd4601b.js.map"
+    "main.b163f7c8.css.map": "/SneakersShopReact/static/css/main.b163f7c8.css.map",
+    "main.b326998e.js.map": "/SneakersShopReact/static/js/main.b326998e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6ef7ebf.css",
-    "static/js/main.0fd4601b.js"
+    "static/css/main.b163f7c8.css",
+    "static/js/main.b326998e.js"
   ]
 }
